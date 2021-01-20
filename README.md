@@ -1,3 +1,8 @@
+Preview: https://modest-goodall-1c0c97.netlify.app/index.html
+
+<br>
+<br>
+
 Credit to Traversymedia and BradTraversy.
 
 //I am not affiliated with Traversymedia or BradTravery but I do really like his tutorials so here's how to donate/follow/reach him
